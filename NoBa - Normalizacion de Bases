@@ -1,1 +1,64 @@
-<mxfile type="github" version="12.9.9" host="www.draw.io" modified="2020-05-20T14:02:05.894Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134" etag="ylXFGLsuGyvt8zNA_rGi"><diagram id="nGhCc_mtPOYVcQmR5R72" name="Page-1">7Vltc+I2EP41zLQfLmNsTMJHDsglMwlhjkx7/SjsxVZPllxZ5iW/vitbNn6hCVA3M3fNhxBpsXalZ/fZXZmeM4l2XySJw0fhA+vZViCp33OmPdvu4x8K/J2Z2tbISPa5ZGgbgV6zpC9gHrSMNKU+JDVdSgimaFwXeoJz8FRNRqQU2/pja8HqG4tJAC3B0iOsLf2d+irMpTf29UF+BzQIC8v9oTlORIqHzUmSkPhiWxE5s54zkUKofBTtJsA0eAV0Zl3Pvv2HB8q9SeDqxDX3PrkNLId+3fHRajZfbe6+PX4athUZ3YnaF0iAj8CYqZAqFIHghM0O0s9SpNwHbcjC2eGZByFiFPZR+CcotTdeJqkSKApVxMy3aF3uv5n12eQPPblyi+l0V/1yujczhDbWGtcMdmPtdJTl+9ebrh9IpNKDV7AogozIANQrz7mlCzH2QUSAG9IxZ+ItKEVamwRGFN3Ut1I6CQfGT2f4zCjZEJYatWPphXQjNLcAPz6TBE7xawEeF0o7cRtSBcuYZCBtkdR1F62I9z3IHP2UKkY5GLlP5PcnXEVV5pQryy19sAGpYFcxfypqxRrLRLXJGP2RmW8rhDSisMpFq8mGi4C2W0AvnyeLc5CthiVw3wynHiNJQr06vkfD9l+FWQUl9whKrlWxsBAUj3NQn7PFSCsusJ3RldtKNc3VOYcqq41DR9abyjJPlee93Hluy3kLKTxINEvmQkaE0RcMWsHP8WecqUguJ0s3vLAHDRwtt+XxvnPE5ded8OK6Be0E/U2K9FNmox8O14FTx9Vtp5ujsA47gfWmBesnnczT5K8U/BJdkqOb6FzB9YfWm+elIVMaIomjQGWgNCVa4aPY0IiiUzQTtFqPyBhUaSAuaHKauprrSVmIYka4/v/LmjKS7VWB1IOE6l0ngIFB5K/nBAnVKrCpWCohs97t4oql3X2tB9rPQxxgMgg4jhms9bkSXc548JDNpv3hQfSc9TN2ZxHnNjKi0464srWrVbh+JyE3eiVJ3nPqUcJ+RBrbjfTYf1ceF9YaRJ4SlbE2vyeVTDmNZV+AI33ycpVT7d4vOz1rX8yXeHtJTtU523ksTSoqJQQ0UTLbJeWekBLvVeJkfcuM09U9TkgU6/UfHH+riz1OcqebeGxfGKosR8Aj8OnPUK8H70z09gWhSnTqI5J0TT2cS2q4jx9ZPYxBJnhDPsotZA0O+CqJT5pb2ugzjYXJBHNZ3gSnwkujvNR3ZCdLM5nuRccnmItoJYtsNo4Rf+p3t+9b8MKyTZkjz4sWqCP9S9idxaCfMdENm83MzZFENziW6Fpvry7jo3OcjxTrWF6WOnL2hDBWRCphKpXdseBORIKJoF5GhU8DzemFSJTuyDqyhVVgg3Weko/Abdz77PZ9+j8N3MHRwJ1FhHbn7d8QXr8WV0Y/XsaClOf9HyP/+3atGQzD4Ttnsfabq6zAAyIheHcV64FGMYWXsihy7BTkoUtRXdsbeyqtvHSrprbS6FhCd6n0vuy/ahaBpYzIzqx8NaTJtW8qJOvIwJPEc5DyjU1mpgiGD7I2yHpjnUrWt64AOD38Qpe/lD78zunM/gY=</diagram></mxfile>
+<mxfile type="github" version="12.9.9" host="www.draw.io" modified="2020-05-20T15:03:09.757Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134" etag="pzD9ZG0xZPio0eGrnTy6">
+  <diagram id="nGhCc_mtPOYVcQmR5R72" name="Page-1">
+    <mxGraphModel grid="1" dx="1612" dy="839" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IdaFg03iRxn9bENbvHXM-6" parent="1" target="IdaFg03iRxn9bENbvHXM-5" source="IdaFg03iRxn9bENbvHXM-1" edge="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=flexArrow;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="IdaFg03iRxn9bENbvHXM-1" value="Archivo de Base" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1">
+          <mxGeometry as="geometry" height="100" width="80" y="190" x="100" />
+        </mxCell>
+        <mxCell id="IdaFg03iRxn9bENbvHXM-2" value="STCP" parent="1" edge="1" style="shape=flexArrow;endArrow=classic;html=1;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;">
+          <mxGeometry as="geometry" relative="1" height="50" width="50">
+            <mxPoint as="sourcePoint" y="239.5" />
+            <mxPoint as="targetPoint" y="239.5" x="90" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IdaFg03iRxn9bENbvHXM-5" value="Proceso Normalizacion" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1">
+          <mxGeometry as="geometry" height="70" width="130" y="205" x="240" />
+        </mxCell>
+        <mxCell id="IdaFg03iRxn9bENbvHXM-7" value="Carga de Archivo" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1">
+          <mxGeometry as="geometry" height="60" width="130" y="50" x="414" />
+        </mxCell>
+        <mxCell id="IdaFg03iRxn9bENbvHXM-8" value="- Busqueda de archivos en el STCP&lt;br&gt;- Movimiento a carpeta de proceso&lt;br&gt;- Carga de archivo plano (fila entera sin separar)" parent="1" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;dx=7;dy=6;align=left;spacingLeft=10;spacingTop=2;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" vertex="1">
+          <mxGeometry as="geometry" height="90" width="240" y="30" x="590" />
+        </mxCell>
+        <mxCell id="IdaFg03iRxn9bENbvHXM-9" value="Proceso Inicial" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1">
+          <mxGeometry as="geometry" height="60" width="130" y="210" x="420" />
+        </mxCell>
+        <mxCell id="IdaFg03iRxn9bENbvHXM-10" value="- Datos del archivo&lt;br style=&quot;font-size: 12px;&quot;&gt;- Productos de la Campaña&lt;br style=&quot;font-size: 12px;&quot;&gt;- Generacion de Id Base y Id Sales&lt;br style=&quot;font-size: 12px;&quot;&gt;- Exclusion de registros incorrectos&lt;br style=&quot;font-size: 12px;&quot;&gt;- Separacion de Campos" parent="1" style="shape=internalStorage;whiteSpace=wrap;backgroundOutline=1;dx=7;dy=6;align=left;spacingLeft=10;spacingTop=2;html=1;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" vertex="1">
+          <mxGeometry as="geometry" height="110" width="240" y="190" x="590" />
+        </mxCell>
+        <mxCell id="IdaFg03iRxn9bENbvHXM-11" value="Proceso Intermedio" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1">
+          <mxGeometry as="geometry" height="60" width="130" y="450" x="430" />
+        </mxCell>
+        <mxCell id="IdaFg03iRxn9bENbvHXM-12" value="Datos identificatorios de la persona&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - Tipo y Nro de Documento&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - Id de Persona&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - Nombre y Apellido&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - Fecha de Nacimiento&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - Sexo" parent="1" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;dx=7;dy=6;align=left;spacingLeft=10;spacingTop=2;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" vertex="1">
+          <mxGeometry as="geometry" height="120" width="240" y="370" x="600" />
+        </mxCell>
+        <mxCell id="IdaFg03iRxn9bENbvHXM-13" value=" Direccion&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - Calle y altura&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - Homologacion de Codigo Postal&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - Provincia" parent="1" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;dx=7;dy=6;align=left;spacingLeft=10;spacingTop=2;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" vertex="1">
+          <mxGeometry as="geometry" height="95" width="240" y="525" x="690" />
+        </mxCell>
+        <mxCell id="IdaFg03iRxn9bENbvHXM-14" value=" Email&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - Validacion de Email segun reglas" parent="1" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;dx=7;dy=6;align=left;spacingLeft=10;spacingTop=2;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" vertex="1">
+          <mxGeometry as="geometry" height="70" width="240" y="660" x="690" />
+        </mxCell>
+        <mxCell id="IdaFg03iRxn9bENbvHXM-15" value="Telefono&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - Limpieza de numeros de telefono&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - Actualizacion de Codigos de Area&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - Identificacion de Celular&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - Reglas de validacion/Repetidos&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - Ordenamiento de Telefonos" parent="1" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;dx=7;dy=6;align=left;spacingLeft=10;spacingTop=2;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" vertex="1">
+          <mxGeometry as="geometry" height="120" width="240" y="760" x="680" />
+        </mxCell>
+        <mxCell id="2H9sL681ff-nO3Z3KgKj-1" value=" Datos de Negocio&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - Medio de Pago&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - Fecha de Venta / Baja / Vencimiento / Ultimo Pago" parent="1" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;dx=7;dy=6;align=left;spacingLeft=10;spacingTop=2;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" vertex="1">
+          <mxGeometry as="geometry" height="100" width="240" y="970" x="690" />
+        </mxCell>
+        <mxCell id="2H9sL681ff-nO3Z3KgKj-2" value="Validaciones&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - Duplicados&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - Productos Disponibles&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - No Llame&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - CAF&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - Vigilance&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - PEPs&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - Contacto Previo&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - Habilitado (por el Socio)&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; - Resultado Normalizacion" parent="1" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;dx=7;dy=6;align=left;spacingLeft=10;spacingTop=2;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" vertex="1">
+          <mxGeometry as="geometry" height="190" width="240" y="1150" x="690" />
+        </mxCell>
+        <mxCell id="2H9sL681ff-nO3Z3KgKj-3" value="Proceso Final" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1">
+          <mxGeometry as="geometry" height="60" width="130" y="580" x="349" />
+        </mxCell>
+        <mxCell id="2H9sL681ff-nO3Z3KgKj-4" value="-Grabado en entidad final&lt;br&gt;&lt;br&gt;-Historizacion de bases antiguas" parent="1" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;dx=7;dy=6;align=left;spacingLeft=16;spacingTop=2;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" vertex="1">
+          <mxGeometry as="geometry" height="100" width="240" y="700" x="375" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
